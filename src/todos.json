@@ -1,19 +1,19 @@
 {
   "todos": [
     {
-      "title": "vretgh1",
+      "title": "nico1",
       "responsible": "mark",
       "description": "lorem impsum",
       "priority": "low"
     },
     {
-      "title": "task2",
+      "title": "nico2",
       "responsible": "ryan",
       "description": "lorem impsum",
       "priority": "medium"
     },
     {
-      "title": "task3",
+      "title": "nico3",
       "responsible": "joseph",
       "description": "lorem impsum",
       "priority": "high"
